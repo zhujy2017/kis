@@ -1,5 +1,3 @@
-# kis
-kis lib is private lib
 Kis for PHP
 =======================================
 
